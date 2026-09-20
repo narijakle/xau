@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD & Crypto 1M Pro Scalper",
+  "description": "Real-time 1-minute candlestick trading chart for XAU/USD & BTC/USD with high winrate scalping strategy, purple TP and orange SL execution markers, $28 micro-account management, and live trade history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
